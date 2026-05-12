@@ -41,7 +41,7 @@ function gotHands(results) {
 function draw() {
   if (!isStarted) {
     background(0);
-    image(startImage, 30, 50, 1600, 1160);
+    image(startImage, 30, 50, 1300, 1010);
     return;
   }
 
